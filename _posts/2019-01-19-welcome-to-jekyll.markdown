@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Światła wyścigowe"
 date:   2019-01-19 19:36:36 +0100
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Samochód, skreślając z rozważań oczywiste dla dorosłego przyzwyczajenie wynikające z dużej ekspozycji na jego bodziec, z natury wydaje się ludzkiej organiczności absurdalną niedorzecznością. Przecież już sam fakt istnienia choroby lokomocyjnej jest należytym uprawdopodobnieniem tego, że nie jesteśmy przesadnie przystosowani do podróży podczas której nasze ciała pozostają w spoczynku. Usłyszałem gdzieś, kiedyś, że podobno u dzieci do mniej więcej piątego roku życia nudności z tego powodu nie występują, jednak nieprzesadnie potrafię zaufać tej informacji, jeśli dla mnie samego nawet prozaiczna zabawa na huśtawce wytwarzała reakcję żołądka podobną do tej na widok nadgniłego, ludzkiego truchła. Ale tego dnia, mimo samochodowej podróży, czułem się nadzwyczaj świeżo.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Pierwsze, co widziało się z okna po dopłynięciu do miasta to wielki, a w oczach dziecka monumentalny blok. Okna migotały w powolnym rytmie synchronizowanym światłem splecenia teraźniejszości ramówki dwóch dostępnych programów telewizji. Faktycznie, obserwacja takiego miejsca mogła dawać wrażenie roju, gdzie za każdym oknem dzieje się albo sen albo wszędzie ta sama narracja kineskopu.
 
-Jekyll also offers powerful support for code snippets:
+Po kilku minutach drogi niewielkie centrum niewielkiego miasta rozpraszało się w punktowych blokach i ulicach oświetlonych już biedniejszymi kuzynami kwiatów portu. Z większym zaciekawieniem niż znajome budynki obserwowało się cień samochodu, który z ciągnącej się za nim długiej, niewyraźnej smugi zmieniał się szybko w wyraźny obrys tuż obok niego, żeby znów przygasać w kolejnej smudze która go prześciga. Każda lampa jako nowe, małe słońce kolejnego, kilkusekundowego dnia. Pamiętam, że dookoła czuć było zmęczenie tym, który trwał zdecydowanie zbyt długo. Chyba mój ojciec właśnie wychodził z wojska i wracaliśmy ze Szczecina, w którym trzeba było załatwić parę spraw. A może dziadek, który niedługo później umarł, potrzebował transportu do szpitala w większym mieście, gdzie złudzenie pomocy wydawało się odrobinę bardziej realne? Nie pamiętam i raczej nie będę potrafił sobie przypomnieć.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Jak się nie pamięta to znaczy, że albo się nie chce pamiętać albo się zapomniało. Albo nie uznawało w ówczesnej perspektywie za na tyle istotne, aby mogło się utrwalić w pamięci.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Pamiętam więc, kiedy ojciec kolegi z przedszkola montował w naszych oknach żaluzje. Modnym wtedy było, aby w miejsce archaicznych kotar używać zdobyczy techniki znanej dotychczas tylko z amerykańskich filmów. Najbardziej tych sensacyjnych, gdzie koniecznie musiała wystąpić scena, w której ktoś o złych zamiarach podgląda kogoś wobec kogo zamierza te zamiary zrealizować, rozsuwając je tylko odrobinę. Mama nie pozwalała nam ich obsługiwać, żebyśmy za nic nie zepsuli tak drogiej inwestycji. Podciągała je do góry tylko podczas mycia okien. Wydawały się wtedy tak strasznie nagie, a świat po drugiej stronie zbyt jasny i zbyt mocno wdzierający się w bezpieczeństwo domu. Poza Sylwestrem, kiedy obserwowaliśmy przez nie fajerwerki. I tą jedną nocą, kiedy przelatywała kometa.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Żaluzje były też źródłem szalenie zachwycającego zjawiska. Kiedy długo nie potrafiłem zasnąć, a zdarzało się to dosyć często, wpatrywałem się w sufit. Okna mojego pokoju wychodziły na spokojne raczej podwórko przecięte drogą dojazdową do reszty blokowiska. Raz na jakiś czas przejeżdżało przez nią auto, którego światła docierały do domu, urządzając po suficie krótki, acz emocjonujący wyścig żółtych pasków. Najbardziej lubiłem jednak parkowanie, kiedy paski powoli zwalniały, żeby później nagle zgasnąć razem z silnikiem do kompletnej ciszy. Przerywało ją później trzaśnięcie drzwi, cichnące kroki i wreszcie brzęk domofonu.
+
+Wtedy też długo nie potrafiłem zasnąć, wyczekując na suficie projekcji z fragmentów zewnętrznego świata. Możliwe, że była to pierwsza noc w życiu, którą spędziłem poza domem. Odświętnością jest też przecież fakt samochodowej wycieczki w domu, w którym nikt nigdy nie miał prawa jazdy. Albo gdzieś obok wydarzyło się coś, czego nie chciałem zapamiętać.
