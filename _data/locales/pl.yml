@@ -1,0 +1,44 @@
+# Strings for dates
+# language Polish
+abbreviated_weekday:
+  - Nie
+  - Pon
+  - Wto
+  - Śro
+  - Czw
+  - Pią
+  - Sob
+full_weekday:
+  - Niedziela
+  - Poniedziałek
+  - Wtorek
+  - Środa
+  - Czwartek
+  - Piątek
+  - Sobota
+abbreviated_month:
+  - Sty
+  - Lut
+  - Mar
+  - Kwi
+  - Maj
+  - Cze
+  - Lip
+  - Sie
+  - Wrz
+  - Paź
+  - Lis
+  - Gru
+full_month:
+  - Stycznia
+  - Lutego
+  - Marca
+  - Kwietnia
+  - Maja
+  - Czerwca
+  - Lipca
+  - Sierpnia
+  - Września
+  - Października
+  - Listopada
+  - Grudnia
