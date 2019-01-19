@@ -9,7 +9,7 @@
 title: Kilka losowych zdarzeń
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://kilozd.pl" # the base hostname & protocol for your site
 twitter_username: kilozd
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
