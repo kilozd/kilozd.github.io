@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Światła wyścigowe"
+comments: true
 date:   2019-01-19 19:36:36 +0100
 ---
 Samochód, skreślając z rozważań oczywiste dla dorosłego przyzwyczajenie wynikające z dużej ekspozycji na jego bodziec, z natury wydaje się ludzkiej organiczności absurdalną niedorzecznością. Przecież już sam fakt istnienia choroby lokomocyjnej jest należytym uprawdopodobnieniem tego, że nie jesteśmy przesadnie przystosowani do podróży podczas której nasze ciała pozostają w spoczynku. Usłyszałem gdzieś, kiedyś, że podobno u dzieci do mniej więcej piątego roku życia nudności z tego powodu nie występują, jednak nieprzesadnie potrafię zaufać tej informacji, jeśli dla mnie samego nawet prozaiczna zabawa na huśtawce wytwarzała reakcję żołądka podobną do tej na widok nadgniłego, ludzkiego truchła. Ale tego dnia, mimo samochodowej podróży, czułem się nadzwyczaj świeżo.
